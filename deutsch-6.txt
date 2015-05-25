@@ -15,8 +15,8 @@ B: Ja, ich bin Amerikaner.
 A: Bist du Amerikanerin?
 B: Nien, ich bin keine Amerikanerin.
 
-A: Du bist Americaner, oder?
-B: [Doch!] Ich bin keine Americaner. Ich bin Kanadier.
+A: Du bist Amerikaner, oder?
+B: [Doch!] Ich bin kein Amerikaner. Ich bin Kanadier.
 - Doch! = What you assumed was correct was incorrect and I will correct you.
 - Doch ~ Contrary to ...?
 
